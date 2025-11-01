@@ -1,0 +1,5 @@
+{
+  "name": "Unity AI Assistant",
+  "description": "A web-based coding agent for Unity 3D projects. Users can select their project folder, and the app will scan all scripts. An integrated AI chat bot, powered by Gemini, allows users to create, edit, optimize, and ask questions about their C# scripts.",
+  "requestFramePermissions": []
+}
